@@ -1,0 +1,1 @@
+The corresponding value of row 'Kidney' in column 7 is 1.

@@ -1,12 +1,31 @@
-# Multimodal Structured Generation for Cheap & SOTA Document-Image Understanding
+# Multimodal Structured Generation: CVPR's 2nd MMFM Challenge Technical Report
 
 Team Name: `leloy`
 
-Members: [Franz Louis Cesista](https://huggingface.co/leloy)
+Members: [Franz Louis Cesista](https://leloykun.github.io/)
+
+Technical Report on Arxiv: [Multimodal Structured Generation: CVPR's 2nd MMFM Challenge Technical Report](https://arxiv.org/abs/2406.11403)
 
 GitHub Repo: https://github.com/leloykun/MMFM-Challenge
 
-My codes are in the [mmfm](https://github.com/leloykun/MMFM-Challenge/tree/mmfm) branch. This repo contains jupyter notebooks, scripts for running inference on the cloud (Huggingface Inference Endpoints & Modal Labs), and all inference results I've produced during the challenge.
+This repo contains jupyter notebooks, scripts for running inference on the cloud (Huggingface Inference Endpoints & Modal Labs), and all inference results I've produced during the challenge.
+
+---
+
+```bibtex
+@misc{cesista2024mmsg,
+    title={Multimodal Structured Generation: CVPR's 2nd MMFM Challenge Technical Report},
+    author={Franz Louis Cesista},
+    year={2024},
+    eprint={2406.11403},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
+---
+
+What follows are older notes I've written during the challenge. I've decided to keep them here for posterity.
 
 ---
 
