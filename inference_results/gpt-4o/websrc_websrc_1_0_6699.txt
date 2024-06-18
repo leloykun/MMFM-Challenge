@@ -1,0 +1,1 @@
+The auto has <span>3</span> doors.

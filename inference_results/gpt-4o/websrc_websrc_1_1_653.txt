@@ -1,0 +1,1 @@
+The Turbo variant has a combined fuel economy of 17 MPG. For specific distances, you can use the formula: fuel required (in gallons) = distance (in miles) / 17 MPG.
